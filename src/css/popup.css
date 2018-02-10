@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Verdana;
+    font-size: 0.75em;
+    min-width: 250px;
+}
+a:hover {
+    color: #ff6a00;
+}
+a:focus {
+    outline: none;
+}
+a:not(.options) {
+    text-decoration: none;
+}
